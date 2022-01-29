@@ -1,0 +1,49 @@
+.class1 {
+	color: red;
+}
+p {
+	color: rgb(168, 168, 7);
+}
+span {
+	color: rgb(158, 25, 25);
+}
+div {
+	color: green;
+}
+.class2 {
+	color: rgb(174, 8, 196);
+}
+.class2 {
+	color: brown;
+}
+#blue {
+	color: blue;
+}
+
+.text {
+	color: cadetblue;
+}
+.paragraph {
+	color: rgb(49, 14, 206);
+}
+div.text2 {
+	color: cyan;
+}
+.one.time {
+	color: darkgray;
+}
+/* ВЛОЖЕННОСТИ */
+
+.floor1 > p {
+	color: deepskyblue;
+}
+.floor2 > p {
+	color: gold;
+}
+.floor3 p {
+	color: deeppink;
+}
+
+.floor3_text + p {
+	color: indigo;
+}
